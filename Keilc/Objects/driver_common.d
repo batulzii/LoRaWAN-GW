@@ -1,0 +1,10 @@
+.\objects\driver_common.o: ..\System\driver_common.c
+.\objects\driver_common.o: ..\System\driver_common.h
+.\objects\driver_common.o: ..\Boards\MCU\typedefs.h
+.\objects\driver_common.o: ..\Boards\MCU\macro.h
+.\objects\driver_common.o: C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include\MKL16Z4.h
+.\objects\driver_common.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0plus.h
+.\objects\driver_common.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\driver_common.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h
+.\objects\driver_common.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h
+.\objects\driver_common.o: C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include\system_MKL16Z4.h
