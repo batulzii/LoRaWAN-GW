@@ -1,1 +1,1 @@
-# LoRaWAN-Lumi
+# LoRaWAN-GW
